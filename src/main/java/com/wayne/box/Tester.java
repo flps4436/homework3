@@ -10,7 +10,7 @@ public class Tester {
         float width;
         int height;
 
-        Box box3 = new Box(23,14,13);
+        Box box3 = new Box(23f,14f,13);
         Box box5 = new Box(39.5f,27.5f,23);
 
         Scanner scanner = new Scanner(System.in);
